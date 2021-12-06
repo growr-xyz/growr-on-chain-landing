@@ -18,8 +18,11 @@
   },
   "how": {
     "title": "How does it work?",
-    "description1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eu sapien diam. Vestibulum dictum, sem placerat viverra condimentum, orci enim auctor leo, vitae viverra arcu dolor et tortor. Sed in leo sed tortor accumsan porttitor. Nunc malesuada sit amet urna et posuere. Curabitur scelerisque ullamcorper scelerisque. Donec suscipit, augue sed pellentesque aliquet, tortor justo vestibulum lorem, sed eleifend eros massa cursus velit. Vestibulum convallis venenatis scelerisque. Vivamus vitae pretium tortor, vel condimentum neque.",
-    "description2": "Proin feugiat congue ex ut lobortis. Curabitur at velit ac nibh sodales malesuada. Praesent lacinia nisl nec orci sollicitudin, at molestie lorem sodales. Cras efficitur sem augue, id egestas lorem sollicitudin a. Nulla venenatis orci in scelerisque consequat. Cras aliquam accumsan orci, eu dignissim ipsum dignissim sed. Aliquam erat volutpat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse luctus dui lacinia velit fringilla, sed molestie sapien vulputate. Quisque a aliquam turpis, ut maximus eros. Integer molestie molestie mauris, id aliquam diam interdum quis. Cras quis interdum diam. Sed sit amet interdum urna. Ut eget eleifend lorem. Donec sed neque id lectus facilisis dictum. Morbi eros justo, suscipit sit amet nibh non, condimentum interdum augue."
+    "subtitle": "We provide loans with fair conditions to women and communities that help them improve their financial health.",
+    "description1": "Bad financial health is plaguing the world. Over 90% of the global population is either living paycheck-to-paycheck without any savings, or is not able to acknowledge the disruptive change that is happening to the financial system.",
+    "description2": "Bitcoin is leading this change and enabling a broad ecosystem of equitable financial services without intermediaries. But most people – especially those that in most need – don't get it and don't have access to this new world.",
+    "description3": "We are particularly focused on empowerment of women and merchants. We care especially for vulnerable populations such as victims of violence and micro merchants from poor communities, to whom we aim to provide support using digital tools and mentor network.",
+    "description4": "You can quickly create your profile, set a goal and apply for a loan. You will get an instant reply thanks to Growr – the global decentralized protcol for lending, running on top of the Bitcoin network."
   },
   "fair-loans": {
     "title": "Fair loans made easy.",
@@ -33,5 +36,18 @@
     "step-4": "Learn and earn",
     "step-4-content": "Learning the features and benefits of Bitcoin through short tutorials earns you fractional bitcoin to build wealth and pay off loans.",
     "cta": "Let's begin"
+  },
+  "features": {
+    "title": "Features",
+    "description": "Securely apply for and manage your loans right from your Peseta app. Here are some of the most important features that makes it a smart choice.",
+    "feature1": "Fair interest rates",
+    "feature2": "Streamlined and user friendly",
+    "feature3": "Connects to your Chivo wallet",
+    "feature4": "Blockchain-based financial ID",
+    "feature5": "Learn and earn",
+    "feature6": "Superb security"
+  },
+  "footer": {
+    "rights": "(c) 2021 Growr On-chain team – developed during the Bitcoin Bankathon 2021. (c) 2021 Esmeralda Orellana / Avia Creative LLC, AviaCreative.com, +1 602 810 3801. Artwork presented for consideration only, all rights reserved."
   }
 }
