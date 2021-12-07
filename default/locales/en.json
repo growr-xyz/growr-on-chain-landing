@@ -7,9 +7,9 @@
     "features": "Features",
     "fair-loans": "Fair loans",
     "sign": "Sign in",
-    "signin-link": "https://app.peseta.xyz/dashboard",
+    "signin-link": "http://app.peseta.xyz:3000/dashboard",
     "signup": "Sign up",
-    "signup-link": "https://app.peseta.xyz/"
+    "signup-link": "http://app.peseta.xyz:3000/"
   },
   "hero": {
     "headline": "Bitcoin powers El Salvador<br/> and your financial future.",
